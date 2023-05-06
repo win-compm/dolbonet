@@ -1,6 +1,6 @@
 # Токен бота в Discord
 # Как получить: https://www.writebots.com/discord-bot-token/
-token = "ВСТАВЬТЕ_ТОКЕН_СЮДА"
+token = "MTEwNDMzMTkxMDk4MjkzODY4NQ.GINz2n.j3eDY5-WVOhgsb5Vv5SqRmB_ksnh7Fq_HPQCG8"
 
 # С какой вероятностью бот отправит сообщение, если обнаружит сообщение с его упоминанием (от 0 до 1)
 mention_prob = 1  # 100%
@@ -33,7 +33,7 @@ weights_file = "weights/dolbonet_004_100_0.1485_0.4306.h5"
 vocab_file = "vocab/vocab_full_10k_ru.pickle"
 
 # Статус бота в Discord
-discord_game_name = "github.com/sergree"
+discord_game_name = "appla плахой"
 
 # Величина словаря
 vocab_size = 10000
